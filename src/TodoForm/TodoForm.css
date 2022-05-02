@@ -40,7 +40,7 @@ textarea:focus {
   outline-color: #61DAFA;
 }
 
-.TodoForm-buttonContainer {
+.TodoForm-buttonContainer, .Todo-date {
   margin-top: 14px;
   display: flex;
   justify-content: space-between;
